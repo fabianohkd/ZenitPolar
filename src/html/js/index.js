@@ -1,5 +1,5 @@
 var zenitPolar = function (letter) {
-    letter = letter.toLowerCase();
+    letter = letter;
     switch (letter) {
         case 'z':
             return 'p';
